@@ -1,6 +1,6 @@
 # laboratorio-opensource
 
-This repository contains some of my *Laboratorio Open Source* course materials. In particular, it includes the final presentation I delivered during the exam, as well as detailed notes on the different business models that can be adopted to sustain open source projects.
+This repository contains some of my “Laboratorio Open Source” course materials. In particular, it includes the final presentation I delivered during the exam, as well as detailed notes on the different business models that can be adopted to sustain open source projects.
 
 ## Contents
 
